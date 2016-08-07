@@ -1,0 +1,9 @@
+#ignore complie file
+/bin
+/gen
+
+#Java .class file
+*.java
+
+
+
